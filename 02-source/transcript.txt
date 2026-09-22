@@ -1,0 +1,657 @@
+{
+  "language": "en",
+  "language_probability": 0.988,
+  "duration": 316.13,
+  "segments": [
+    {
+      "start": 6.08,
+      "end": 8.56,
+      "text": "At the height of their power, infamous"
+    },
+    {
+      "start": 8.56,
+      "end": 11.34,
+      "text": "Caribbean pirates like Blackbeard and Henry"
+    },
+    {
+      "start": 11.34,
+      "end": 14.14,
+      "text": "Morgan commanded as many as 10 ships"
+    },
+    {
+      "start": 14.14,
+      "end": 15.38,
+      "text": "and several hundred men."
+    },
+    {
+      "start": 15.96,
+      "end": 17.98,
+      "text": "But their stories pale next to the"
+    },
+    {
+      "start": 17.98,
+      "end": 20.02,
+      "text": "most successful pirate of all time."
+    },
+    {
+      "start": 20.82,
+      "end": 24.82,
+      "text": "Madame Jung commanded 1 ,800 vessels, made"
+    },
+    {
+      "start": 24.82,
+      "end": 27.84,
+      "text": "enemies of several empires, and still lived"
+    },
+    {
+      "start": 27.84,
+      "end": 28.58,
+      "text": "to old age."
+    },
+    {
+      "start": 29.42,
+      "end": 31.18,
+      "text": "Madam Zheng began her life as a"
+    },
+    {
+      "start": 31.18,
+      "end": 33.14,
+      "text": "commoner, working on one of the many"
+    },
+    {
+      "start": 33.14,
+      "end": 35.48,
+      "text": "floating brothels or flower boats in the"
+    },
+    {
+      "start": 35.48,
+      "end": 36.64,
+      "text": "port city of Guangzhou."
+    },
+    {
+      "start": 37.6,
+      "end": 40.76,
+      "text": "By 1801, she had attracted the attention"
+    },
+    {
+      "start": 40.76,
+      "end": 42.88,
+      "text": "of a local pirate captain named Zheng"
+    },
+    {
+      "start": 42.88,
+      "end": 44.88,
+      "text": "Yi, and the two soon married."
+    },
+    {
+      "start": 46.2,
+      "end": 48.68,
+      "text": "Guangzhou's fishermen had long engaged in small"
+    },
+    {
+      "start": 48.68,
+      "end": 51.28,
+      "text": "-scale piracy to supplement their meager incomes"
+    },
+    {
+      "start": 51.28,
+      "end": 52.04,
+      "text": "in the off -season."
+    },
+    {
+      "start": 52.48,
+      "end": 55.08,
+      "text": "But a successful peasant uprising in neighboring"
+    },
+    {
+      "start": 55.08,
+      "end": 56.96,
+      "text": "Vietnam at the end of the 18th"
+    },
+    {
+      "start": 56.96,
+      "end": 58.44,
+      "text": "century had raised the stakes."
+    },
+    {
+      "start": 59.2,
+      "end": 61.86,
+      "text": "The victorious Tay Son rebels had unified"
+    },
+    {
+      "start": 61.86,
+      "end": 63.82,
+      "text": "their country only to face a Chinese"
+    },
+    {
+      "start": 63.82,
+      "end": 66.58,
+      "text": "invasion and ongoing maritime battles with"
+    },
+    {
+      "start": 66.58,
+      "end": 68.4,
+      "text": "the Vietnamese rulers they had overthrown."
+    },
+    {
+      "start": 69.04,
+      "end": 71.28,
+      "text": "So they commissioned Guangzhou's pirates to"
+    },
+    {
+      "start": 71.28,
+      "end": 72.8,
+      "text": "raid the coast and join the fight"
+    },
+    {
+      "start": 72.8,
+      "end": 73.68,
+      "text": "against their enemies."
+    },
+    {
+      "start": 74.7,
+      "end": 77.02,
+      "text": "Serving their Vietnamese patrons turned the"
+    },
+    {
+      "start": 77.02,
+      "end": 79.8,
+      "text": "Zhengs and other pirates from ragtag gangs"
+    },
+    {
+      "start": 79.8,
+      "end": 82.46,
+      "text": "aboard single vessels into professional privateer"
+    },
+    {
+      "start": 82.46,
+      "end": 84.58,
+      "text": "fleets with dozens of ships able to"
+    },
+    {
+      "start": 84.58,
+      "end": 85.5,
+      "text": "hold their own at sea."
+    },
+    {
+      "start": 86.58,
+      "end": 89.6,
+      "text": "In 1802, the Tây Sơn were overthrown,"
+    },
+    {
+      "start": 89.66,
+      "end": 91.48,
+      "text": "and the pirates lost their safe harbor"
+    },
+    {
+      "start": 91.48,
+      "end": 92.0,
+      "text": "in Vietnam."
+    },
+    {
+      "start": 92.46,
+      "end": 95.18,
+      "text": "But instead of scattering, the chungs met"
+    },
+    {
+      "start": 95.18,
+      "end": 97.54,
+      "text": "the crisis by uniting the rival Cantonese"
+    },
+    {
+      "start": 97.54,
+      "end": 99.56,
+      "text": "pirate groups into a formidable alliance."
+    },
+    {
+      "start": 100.22,
+      "end": 103.18,
+      "text": "At its height, the confederation included 70"
+    },
+    {
+      "start": 103.18,
+      "end": 106.28,
+      "text": ",000 sailors, with 800 large junks and"
+    },
+    {
+      "start": 106.28,
+      "end": 107.9,
+      "text": "nearly 1 ,000 smaller vessels."
+    },
+    {
+      "start": 108.12,
+      "end": 110.96,
+      "text": "Those were organized into six fleets marked"
+    },
+    {
+      "start": 110.96,
+      "end": 112.1,
+      "text": "by different colored flags."
+    },
+    {
+      "start": 112.1,
+      "end": 115.3,
+      "text": "The Zhengs were unlike many other historically"
+    },
+    {
+      "start": 115.3,
+      "end": 117.92,
+      "text": "known privateers, such as Henry Morgan or"
+    },
+    {
+      "start": 117.92,
+      "end": 120.3,
+      "text": "Barbarossa, who acted on behalf of various"
+    },
+    {
+      "start": 120.3,
+      "end": 121.04,
+      "text": "naval powers."
+    },
+    {
+      "start": 121.36,
+      "end": 124.04,
+      "text": "Instead, the Zhengs were now true outlaws,"
+    },
+    {
+      "start": 124.2,
+      "end": 126.52,
+      "text": "operating without support or approval from"
+    },
+    {
+      "start": 126.52,
+      "end": 127.12,
+      "text": "any government."
+    },
+    {
+      "start": 127.9,
+      "end": 129.98,
+      "text": "Zheng Yi met an untimely end in"
+    },
+    {
+      "start": 129.98,
+      "end": 132.96,
+      "text": "1807, but his widow didn't hesitate to"
+    },
+    {
+      "start": 132.96,
+      "end": 133.78,
+      "text": "secure their gains."
+    },
+    {
+      "start": 134.14,
+      "end": 135.54,
+      "text": "Through skillful diplomacy,"
+    },
+    {
+      "start": 136.22,
+      "end": 138.04,
+      "text": "Madame Zheng took charge of the confederation,"
+    },
+    {
+      "start": 138.34,
+      "end": 140.62,
+      "text": "convincing the captains that their best interests"
+    },
+    {
+      "start": 140.62,
+      "end": 141.98,
+      "text": "lay in continued collaboration."
+    },
+    {
+      "start": 142.7,
+      "end": 145.62,
+      "text": "Meanwhile, she appointed Zhang Bao, the young"
+    },
+    {
+      "start": 145.62,
+      "end": 147.62,
+      "text": "protege of her late husband, as the"
+    },
+    {
+      "start": 147.62,
+      "end": 149.96,
+      "text": "commander of her most powerful squadron, the"
+    },
+    {
+      "start": 149.96,
+      "end": 150.8,
+      "text": "Red Flag Fleet."
+    },
+    {
+      "start": 151.4,
+      "end": 153.22,
+      "text": "Zhang became not only her right -hand"
+    },
+    {
+      "start": 153.22,
+      "end": 155.38,
+      "text": "man, but her lover and soon her"
+    },
+    {
+      "start": 155.38,
+      "end": 155.92,
+      "text": "new husband."
+    },
+    {
+      "start": 156.52,
+      "end": 158.64,
+      "text": "Madame Zhang consolidated her power through"
+    },
+    {
+      "start": 158.64,
+      "end": 161.06,
+      "text": "strict military discipline, combined with a"
+    },
+    {
+      "start": 161.06,
+      "end": 162.7,
+      "text": "surprisingly progressive code of laws."
+    },
+    {
+      "start": 163.18,
+      "end": 165.46,
+      "text": "Female captives were theoretically protected"
+    },
+    {
+      "start": 165.46,
+      "end": 167.88,
+      "text": "from sexual assault, and while pirates could"
+    },
+    {
+      "start": 167.88,
+      "end": 170.32,
+      "text": "take them as wives, mistreatment or infidelity"
+    },
+    {
+      "start": 170.32,
+      "end": 172.34,
+      "text": "towards them was punishable by death."
+    },
+    {
+      "start": 172.88,
+      "end": 175.38,
+      "text": "Under Madam Zheng's leadership, the pirates"
+    },
+    {
+      "start": 175.38,
+      "end": 177.88,
+      "text": "greatly increased their power, with 200 cannons"
+    },
+    {
+      "start": 177.88,
+      "end": 179.82,
+      "text": "and 1 ,300 guns in the Red"
+    },
+    {
+      "start": 179.82,
+      "end": 180.52,
+      "text": "Flag Fleet alone."
+    },
+    {
+      "start": 180.86,
+      "end": 183.22,
+      "text": "Within a few years, they destroyed 63"
+    },
+    {
+      "start": 183.22,
+      "end": 186.9,
+      "text": "of Guangdong Province's 135 military vessels,"
+    },
+    {
+      "start": 187.16,
+      "end": 189.42,
+      "text": "forcing their commanders to hire more than"
+    },
+    {
+      "start": 189.42,
+      "end": 190.42,
+      "text": "30 private junks."
+    },
+    {
+      "start": 190.66,
+      "end": 193.06,
+      "text": "Madam Zheng was so feared that Chinese"
+    },
+    {
+      "start": 193.06,
+      "end": 195.4,
+      "text": "commanders charged with apprehending her spent"
+    },
+    {
+      "start": 195.4,
+      "end": 198.22,
+      "text": "most of their time ashore, sometimes sabotaging"
+    },
+    {
+      "start": 198.22,
+      "end": 199.96,
+      "text": "their own vessels to avoid battle at"
+    },
+    {
+      "start": 199.96,
+      "end": 200.18,
+      "text": "sea."
+    },
+    {
+      "start": 200.6,
+      "end": 202.92,
+      "text": "With little to stop them, the pirates"
+    },
+    {
+      "start": 202.92,
+      "end": 204.86,
+      "text": "were able to mount successful and often"
+    },
+    {
+      "start": 204.86,
+      "end": 207.66,
+      "text": "brutal raids on garrisons, villages, and markets"
+    },
+    {
+      "start": 207.66,
+      "end": 208.4,
+      "text": "throughout the coast."
+    },
+    {
+      "start": 208.86,
+      "end": 211.36,
+      "text": "Using her administrative talents, Madam Zheng"
+    },
+    {
+      "start": 211.36,
+      "end": 213.76,
+      "text": "established financial offices in cities and"
+    },
+    {
+      "start": 213.76,
+      "end": 216.3,
+      "text": "villages, allowing her pirates to extract regular"
+    },
+    {
+      "start": 216.3,
+      "end": 218.38,
+      "text": "protection payments on land and sea alike."
+    },
+    {
+      "start": 218.64,
+      "end": 220.88,
+      "text": "This effectively created a state within a"
+    },
+    {
+      "start": 220.88,
+      "end": 223.2,
+      "text": "state whose influence reached far beyond the"
+    },
+    {
+      "start": 223.2,
+      "end": 223.92,
+      "text": "South China Sea."
+    },
+    {
+      "start": 224.96,
+      "end": 226.42,
+      "text": "At the peak of her power, Madame"
+    },
+    {
+      "start": 226.42,
+      "end": 229.22,
+      "text": "Zheng's confederation drove five American schooners"
+    },
+    {
+      "start": 229.22,
+      "end": 231.46,
+      "text": "to safe harbor near Macau, captured a"
+    },
+    {
+      "start": 231.46,
+      "end": 234.0,
+      "text": "Portuguese brig, and blockaded a tribute mission"
+    },
+    {
+      "start": 234.0,
+      "end": 235.76,
+      "text": "from Thailand all in a single day."
+    },
+    {
+      "start": 236.34,
+      "end": 238.72,
+      "text": "But perhaps Madame Zheng's greatest success"
+    },
+    {
+      "start": 238.72,
+      "end": 240.22,
+      "text": "lay in knowing when to quit."
+    },
+    {
+      "start": 241.02,
+      "end": 243.86,
+      "text": "By 1810, increasing tension between the Red"
+    },
+    {
+      "start": 243.86,
+      "end": 246.3,
+      "text": "and Black Flag fleets weakened the confederation"
+    },
+    {
+      "start": 246.3,
+      "end": 248.74,
+      "text": "from within and rendered it more vulnerable"
+    },
+    {
+      "start": 248.74,
+      "end": 249.84,
+      "text": "to attack from without."
+    },
+    {
+      "start": 250.48,
+      "end": 252.6,
+      "text": "So when the Chinese government, desperate to"
+    },
+    {
+      "start": 252.6,
+      "end": 254.9,
+      "text": "stop the raids, offered amnesty in exchange"
+    },
+    {
+      "start": 254.9,
+      "end": 255.94,
+      "text": "for the pirates' surrender,"
+    },
+    {
+      "start": 256.72,
+      "end": 258.86,
+      "text": "Madame Zheng and Zhang Bao agreed, but"
+    },
+    {
+      "start": 258.86,
+      "end": 260.06,
+      "text": "only on their own terms."
+    },
+    {
+      "start": 260.56,
+      "end": 263.02,
+      "text": "Their confederation was successfully and peacefully"
+    },
+    {
+      "start": 263.02,
+      "end": 266.04,
+      "text": "dismantled in April 1810, while Zhang Bao"
+    },
+    {
+      "start": 266.04,
+      "end": 268.5,
+      "text": "was allowed to retain 120 junks for"
+    },
+    {
+      "start": 268.5,
+      "end": 270.58,
+      "text": "personal use and became an officer in"
+    },
+    {
+      "start": 270.58,
+      "end": 271.18,
+      "text": "the Chinese navy."
+    },
+    {
+      "start": 271.82,
+      "end": 273.36,
+      "text": "Now fighting pirates himself,"
+    },
+    {
+      "start": 273.74,
+      "end": 275.42,
+      "text": "Zhang Bao quickly rose through the ranks"
+    },
+    {
+      "start": 275.42,
+      "end": 277.96,
+      "text": "of military command, and Madame Zheng enjoyed"
+    },
+    {
+      "start": 277.96,
+      "end": 279.84,
+      "text": "all the privileges of her husband's status."
+    },
+    {
+      "start": 280.32,
+      "end": 283.36,
+      "text": "After Zhang Bao died in 1822, Madam"
+    },
+    {
+      "start": 283.36,
+      "end": 285.14,
+      "text": "Zheng returned with their 11 -year -old"
+    },
+    {
+      "start": 285.14,
+      "end": 287.08,
+      "text": "son to Guangzhou, where she opened a"
+    },
+    {
+      "start": 287.08,
+      "end": 288.78,
+      "text": "gambling house and quietly lived off the"
+    },
+    {
+      "start": 288.78,
+      "end": 289.12,
+      "text": "proceeds."
+    },
+    {
+      "start": 289.4,
+      "end": 291.14,
+      "text": "She died at the age of 69,"
+    },
+    {
+      "start": 291.38,
+      "end": 293.88,
+      "text": "an uncommonly peaceful end to a pirate's life."
+    },
+    {
+      "start": 312.52,
+      "end": 316.1,
+      "text": "Thanks for watching!"
+    }
+  ]
+}
